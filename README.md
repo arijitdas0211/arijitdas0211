@@ -1,3 +1,9 @@
+<style>
+  * {
+      background-color: white; 
+      padding: 10px 15px;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Arijit Das</h1>
 <h3 align="justify">MCA fresher seeking for an opportunity to prove my coding skills and utilize my knowledge to be a part of an organization where I can fully utilize my skills in programming languages, making a significant contribution to the success of the organization, while at the same time pursuing my individual growth.</h3>
 
@@ -24,7 +30,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div style="background-color: white; padding: 10px 15px; height: 60px; width: auto;">
+<div>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>
