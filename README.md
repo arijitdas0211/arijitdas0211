@@ -1,4 +1,4 @@
-<h1>Hi, my name is Arijit Das 👋</h1>
+<h1 align="center">Hi, my name is Arijit Das 👋</h1>
 <h3 align="justify">MCA fresher seeking for an opportunity to prove my coding skills and utilize my knowledge to be a part of an organization where I can fully utilize my skills in programming languages, making a significant contribution to the success of the organization, while at the same time pursuing my individual growth.</h3>
 
 <p align="center">
