@@ -41,10 +41,8 @@
     <li>
       User can also visit the property by the Google map location link.
     </li>
-  </ol>     
-      
-  <br />
-  <a href="https://arijitdas0211.github.io/PGFinder/" textDecoration="none" color="crimson" target="_blank">
+  </ol>
+  <a href="https://arijitdas0211.github.io/PGFinder/" text-decoration="none" color="crimson" target="_blank">
     PGFinnder Web Application doc on GitHub
   </a>
 </p>
