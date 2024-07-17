@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="center">My Project(s):</h3>
+<h3 align="left">My Project(s):</h3>
 <p align="justify">
   <h3 component="h4">PGFinder - Full Stack Web Development using HTML, CSS, Bootstrap, JavaScript, Python, Django rest web framework and SQL</h3>
   PGFinder is an online web application for finding Paying Guest accommodations for users like - students or professionals or an individual, who is intended to relocate to a new place. PGFinder aims to simplify the search for suitable PG options by providing a user-friendly interface and filter search functionalities. 
@@ -44,7 +44,7 @@
   </ol>     
       
   <br />
-  <a href="https://arijitdas0211.github.io/PGFinder/" target="_blank">
+  <a href="https://arijitdas0211.github.io/PGFinder/" style="text-decoration: none; color: crimson;" target="_blank">
     PGFinnder Web Application doc on GitHub
   </a>
 </p>
@@ -81,4 +81,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitdas0211&layout=compact&hide=html" alt="Top Languages" />
 </p>
-
