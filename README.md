@@ -19,10 +19,10 @@
 
 <h3 align="center">My Project(s):</h3>
 <p align="justify">
-  PGFinder: - Full Stack Web Development using Python, Django rest web framework and SQL.
+  <h3>PGFinder: - Full Stack Web Development using HTML, CSS, Bootstrap, JavaScript, Python, Django rest web framework and SQL.</h3>
   <br />
   PGFinder is an online web application for finding Paying Guest accommodations for users like - students or professionals or an individual, who is intended to relocate to a new place. PG Finder aims to simplify the search for suitable PG options by providing a user-friendly interface and filter search functionalities. 
-  <h5>Features added:-</h5>
+  <h4>Features added:-</h4>
   <ol>
     <li>
       Users can search for PG accommodations based on location, gender and budget filter options.
