@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div style="background-color: white; padding: 10px 15px;">
+<div style="background-color: white; padding: 10px 15px; height: 60px; width: auto;">
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>
