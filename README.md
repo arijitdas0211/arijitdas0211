@@ -25,7 +25,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <div style="background-color: white; padding: 10px 15px;">
+  <div style="background-color: white; padding: 10px 15px; align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40"/>
