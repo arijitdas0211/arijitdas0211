@@ -33,7 +33,7 @@
       Property owners can list their PG accommodations, providing detailed information such as room image, types, location, facilities, and rental terms, etc. 
     </li>
     <li>
-      The system also allows users to leave rating between (0 to 4) for the PG they are staying in.
+      The system also allows users to leave rating between (0 to 5) for the PG they are staying in.
     </li>
     <li>
       User can post their enquiry with their name, phone no and the enquiry info to the property holder.
