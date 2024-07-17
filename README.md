@@ -42,7 +42,7 @@
       User can also visit the property by the Google map location link.
     </li>
   </ol>
-  <a href="https://arijitdas0211.github.io/PGFinder/" text-decoration="none" color="crimson" target="_blank">
+  <a href="https://arijitdas0211.github.io/PGFinder/" target="_blank">
     PGFinnder Web Application doc on GitHub
   </a>
 </p>
