@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Arijit Das 👋</h1>
-<h3 align="justify">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arijitdas0211&label=Profile%20views&color=0e75b6&style=flat" alt="arijitdas0211" />
