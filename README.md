@@ -17,36 +17,6 @@
   </a>
 </p>
 
-<h3 align="left">My Project(s):</h3>
-<p align="justify">
-  <h3 component="h4">PGFinder - Full Stack Web Development using HTML, CSS, Bootstrap, JavaScript, Python, Django rest web framework and SQL</h3>
-  PGFinder is an online web application for finding Paying Guest accommodations for users like - students or professionals or an individual, who is intended to relocate to a new place. PGFinder aims to simplify the search for suitable PG options by providing a user-friendly interface and filter search functionalities. 
-  <h4>Features added:-</h4>
-  <ol>
-    <li>
-      Users can search for PG accommodations based on location, gender and budget filter options.
-    </li>
-    <li>
-      Property can create account, manage their property listings, receive enquiries and communicate with potential customer through the information received. 
-    </li>
-    <li>
-      Property owners can list their PG accommodations, providing detailed information such as room image, types, location, facilities, and rental terms, etc. 
-    </li>
-    <li>
-      The system also allows users to leave rating between (0 to 5) for the PG they are staying in.
-    </li>
-    <li>
-      User can post their enquiry with their name, phone no and the enquiry info to the property holder.
-    </li>
-    <li>
-      User can also visit the property by the Google map location link.
-    </li>
-  </ol>
-  <a href="https://arijitdas0211.github.io/PGFinder/" target="_blank">
-    PGFinnder Web Application doc on GitHub
-  </a>
-</p>
-
 <h3 align="center">Also Check out:</h3>
 <p align="center">
   <a href="https://www.hackerrank.com/arijitdas0211" target="_blank">
